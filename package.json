@@ -1,0 +1,21 @@
+{
+  "name": "whitesands-mining",
+  "version": "1.0.0",
+  "description": "Mining Website for Whitesands Company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elvis Duru",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.1.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-basic-auth": "^1.2.0",
+    "formidable": "^1.2.2",
+    "mongoose": "^5.9.3",
+    "path": "^0.12.7"
+  }
+}
